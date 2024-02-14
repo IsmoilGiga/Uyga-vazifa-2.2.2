@@ -1,0 +1,146 @@
+.logo {
+    width: 30px;
+    height: 100%;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.into {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left p {
+    color: grey;
+    font-size: 19px;
+}
+
+.left button {
+    color: white;
+    background-color: blue;
+    border-radius: 30px;
+    padding: 15px;
+    border: none;
+    width: 150px;
+    margin-top: 30px;
+}
+
+.left h1 {
+    font-size: 40px;
+}
+
+.rasm {
+    width: 400px;
+}
+
+.left {
+    width: 48%;
+}
+
+.right {
+    width: 50%;
+}
+
+.right img{
+    width: 100%;
+    height: 80%;
+}
+
+.info h2{
+    text-align: center;
+    font-size: 32px;
+}
+
+.info p{
+    text-align: center;
+    color: grey;
+}
+
+.top, .bottom{
+    display: flex;
+    gap: 30px;
+}
+
+.bottom{
+    margin-top: 30px;
+}
+
+.card{
+    width: 32%;
+    justify-content: space-between;
+    text-align: center;
+    box-shadow: 5px 5px 20px rgb(110, 108, 108);
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.card img{
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+}
+
+.services{
+    margin-top: 50px;
+}
+
+.more-btn{
+    background-color: white;
+    color:rgb(56, 178, 226);
+    border: 2px solid rgb(56, 178, 226);
+    padding: 10px;
+    border-radius: 30px;
+    width: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+i{
+    font-size: 50px;
+    color: blue;
+}
+
+.cardfooter{
+    width: 32%;
+    justify-content: space-between;
+    text-align: center;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.cardfooter img{
+    width: 300px;
+    height: 150px;
+    border-radius: 10px;
+}
+
+.footerniyoni h2{
+    margin-top: 50px;
+    text-align: center;
+}
